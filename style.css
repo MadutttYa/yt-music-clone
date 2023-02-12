@@ -101,9 +101,13 @@ nav .logo img {
   display: none;
 }
 
+.first-sec {
+  width: 100%;
+}
+
 .sec-sect {
   position: absolute;
-  left: 250px;
+  left: 350px;
   top: 0;
   width: 100%;
 }
@@ -199,4 +203,5 @@ nav .logo img {
   margin-top: -16px;
   font-size: 15px;
   letter-spacing: 0.75px;
+  text-align: center;
 }
