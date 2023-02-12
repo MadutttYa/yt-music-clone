@@ -181,7 +181,7 @@ nav .logo img {
   margin-top: 10px;
   overflow-y: auto;
   display: flex;
-  gap: 1.5rem;
+  gap: 2.5rem;
 }
 
 .first-row::-webkit-scrollbar,
